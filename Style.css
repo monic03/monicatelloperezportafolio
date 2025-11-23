@@ -1,0 +1,16 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #AB2234;
+    color: #F7E4D0;
+    text-align: center;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #AB2234;
+    color: #AA2033;
+}
+.navbar-nav.mr-auto .nav-item.dropdown #navbarDropdown1 {
+    color: #AB2234;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #AB2234;
+}
